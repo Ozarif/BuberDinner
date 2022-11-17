@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "veVGTlZOtJaSMMJyvBe0btqqNo4NBXKdHxUkRykge4/Z1zksK5LkWxWAdtTp2/Qd/YpPv5uDN+jabrd5rfDxTw==",
+  "success": true,
+  "projectFilePath": "C:\\ZarifO\\Projects\\net6\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
